@@ -1,5 +1,5 @@
 ## Hi there 👋
-#Hang tight, getting build.
+#Hang tight, getting built.
 
 <!--
 **MikaelYohannes/MikaelYohannes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
