@@ -20,8 +20,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelYohannes&layout=compact)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaelYohannes&show_icons=true)
-
 
 ## 📫 How to reach me
   - 📧 tesfamikaelsolomon@gmail.com
