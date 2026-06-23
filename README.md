@@ -2,10 +2,12 @@
 * Computer Science Student at the University of Lethbridge
 
 ## 🔭 Currently working on 
-  - A full-stack Python application that updates enterprise-scale Network devices on changes in location.
-  - Obtaning various certificates including Cisco's CCNA and Microsoft's AZ900.
+  - A full-stack Python application that monitors and tracks network devices.
+  - Obtaning various certificates including Cisco's CCNA and Google.
 
 ## Featured Projects
+  - **[Portfolio Website]**(https://tmikael.dev) - React + Tailwind design deployed on vercel.
+  - **Monitoring Dash** - Python based monitoring application that keeps track of network devices. Utilizes fastAPI to serve an interactive frontend built with react.
   - **Black Jack Game** - HTML/CSS frontend and C++ backend with Oat++ endpoints, playable via a web browser.
   - **City and Car 3D render** - Built using C++ and OpenGL.
   - **Text-based adventure Game** - Playable C++ build adventure game with various weapons, opponents and locations.
@@ -24,4 +26,5 @@
 ## 📫 How to reach me
   - 📧 tesfamikaelsolomon@gmail.com
   - 💼 [LinkedIn](https://www.linkedin.com/in/t-michael-yohannes)
+  - [WebPage](https://www.tmikael.dev)
 
