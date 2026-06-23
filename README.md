@@ -6,7 +6,7 @@
   - Obtaning various certificates including Cisco's CCNA and Google.
 
 ## Featured Projects
-  - [**Portfolio Website**](https://tmikael.dev) - React + Tailwind design deployed on vercel.
+  - **Portfolio Website** - React + Tailwind design & deployed on vercel.
   - **Monitoring Dash** - Python based monitoring application that keeps track of network devices. Utilizes fastAPI to serve an interactive frontend built with react.
   - **Black Jack Game** - HTML/CSS frontend and C++ backend with Oat++ endpoints, playable via a web browser.
   - **City and Car 3D render** - Built using C++ and OpenGL.
