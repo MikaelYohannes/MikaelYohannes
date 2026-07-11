@@ -3,7 +3,7 @@
 
 ## 🔭 Currently working on 
   - A full-stack Python application that monitors and tracks network devices.
-  - Obtaning various certificates including Cisco's CCNA and Google.
+  - Obtaning various certificates including Cisco's CCNA.
 
 ## Featured Projects
   - **Portfolio Website** - React + Tailwind design & deployed on vercel.
